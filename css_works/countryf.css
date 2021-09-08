@@ -1,0 +1,35 @@
+
+ .parent{
+    width: 550px;
+    height: 300px; 
+    background-color:rgb(24, 83, 243) ;
+    display: flex;
+    /* justify-content: space-evenly;
+    justify-content: flex-end; */
+    align-items: center;
+    justify-content: space-around;
+ } 
+
+.col{
+    width: 170px;
+    height: 250px;
+    background-color: gold;
+
+}
+
+
+
+img{
+    width:99%;
+    height:20%;
+
+}
+.div{
+    width: 32px;
+    height: 600px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(15, 12, 12);
+    float: left;
+}
+

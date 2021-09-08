@@ -1,0 +1,42 @@
+.row{
+    width: 570px;
+    height: 300px; 
+    background-color:rgb(249, 252, 252) ;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 15px;
+    
+}
+.col{
+    width: 100px;
+    border: 2px solid black;
+
+}
+.col img{
+    width: 95px;
+    height: 200px;
+}
+button{
+    width: 80px;
+    height: 30px;
+    background-color: red;
+    color: cornsilk;
+    border-radius: 30%;
+}
+.btnclass{
+    display: class;
+    justify-content: space-around;
+}
+header{
+    display: flex;
+    width: 100%;
+    background-color: rgb(158, 158, 211);
+    justify-content: space-evenly;
+    height: 50px;
+    align-items: center;
+}
+header a{
+    color: white;
+    text-decoration: none;
+    padding: 100px;
+}

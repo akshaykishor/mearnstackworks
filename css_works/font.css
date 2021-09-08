@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Lobster&family=Roboto+Slab:wght@100;600&display=swap');
+div{
+    border: 2px solid rgb(250, 106, 62);
+    font-family:'Roboto Slab', serif;
+    background-color: yellow;
+    width: 50%;
+}
+body{
+    background-color: violet;
+    background-image: url(./image/OIP.jfif);
+    background-size: cover;
+}

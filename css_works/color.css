@@ -1,0 +1,9 @@
+h1{
+    color: blue;
+}
+#second{
+    color: rgb(39, 224, 22);
+}
+.third{
+    color: hsl(86, 68%, 42%);
+}
